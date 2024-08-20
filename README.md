@@ -1,4 +1,3 @@
-Here's a draft of the README document for your project based on the information you provided and a quick overview of the code files you uploaded. I will also review the code to suggest installation, usage, and dependencies.
 
 ---
 
